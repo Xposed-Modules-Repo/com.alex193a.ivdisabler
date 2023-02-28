@@ -6,6 +6,6 @@ Tested by installing the update via **ADB**.
 
 No configuration needed, install and restart the phone.
 
-The module is also available as a *Magisk Module*! You can download it from: [https://xposed.alex193a.com](https://xposed.alex193a.com)
+The module is also available as a *Magisk Module*! You can download it from: [https://modules.alex193a.com](https://modules.alex193a.com)
 
 ⚠️ The Magisk Module has been tested **ONLY** on a Pixel 3XL. Use it at your own risk. ⚠️
